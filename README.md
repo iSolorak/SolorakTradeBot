@@ -15,3 +15,8 @@ Many ideas to the founder of this bot , modidified some code by Solorak
 ```
 
 5. Run main.py
+
+
+
+
+(No support if any bugs are found)
